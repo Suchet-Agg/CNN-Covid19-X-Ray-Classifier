@@ -19,6 +19,17 @@ What things you need to install the software and how to install them
 ```
 Run app.py And Launch yuor Browser and go to : http://localhost:5000/
 
+## Overview
+
+![Alt text](./extras/normal_up.png?raw=true "Normal Upload")
+
+![Alt text](./extras/normal_res.png?raw=true "Normal Result")
+
+![Alt text](./extras/covid_up.png?raw=true "Covid Upload")
+
+![Alt text](./extras/covid_res.png?raw=true "Covid Result")
+
+
 ## Additional Notes
 
 ## Built With
