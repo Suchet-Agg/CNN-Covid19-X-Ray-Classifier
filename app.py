@@ -52,7 +52,7 @@ def predict(args):
 	img = np.array(args['input']) / 255.0
 	img = np.expand_dims(img, axis = 0)
 
-	model = 'covid_model_v3.h5'
+	model = 'covid_model_v4.h5'
 	# Load weights into the new model
 	model = load_model(model)
 
