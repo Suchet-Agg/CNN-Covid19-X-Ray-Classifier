@@ -29,6 +29,10 @@ Run app.py And Launch yuor Browser and go to : http://localhost:5000/
 
 ![Alt text](./extras/covid_res.png?raw=true "Covid Result")
 
+## Performance of The model
+
+![Alt text](./results.png?raw=true "Performance")
+
 
 ## Additional Notes
 
