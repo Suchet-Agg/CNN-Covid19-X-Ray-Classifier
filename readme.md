@@ -15,7 +15,6 @@ What things you need to install the software and how to install them
 2. keras
 3. sklearn
 4. Flask
-
 ```
 Run app.py And Launch yuor Browser and go to : http://localhost:5000/
 
