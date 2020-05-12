@@ -16,7 +16,16 @@ What things you need to install the software and how to install them
 3. sklearn
 4. Flask
 ```
-Run app.py And Launch yuor Browser and go to : http://localhost:5000/
+To install all dependencies run the following:
+```
+pip install -r requirements.txt
+```
+
+Run app.py 
+```
+python app.py
+```
+And Launch yuor Browser and go to : http://localhost:5000/
 
 ## Overview
 
